@@ -142,28 +142,30 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "48px",
-              "color": "#383838"
+              "color": "#303030"
             },
             ".mbr-section-lead": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-lead B": {
-              "color": "#303030"
+              "color": "#383838"
             }
           },
           "_anchor": "header1-7",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/LYubHpEMTPM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#7c706b",
@@ -201,7 +203,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -226,7 +228,7 @@
             }
           },
           "title": "BIOGRAPHY",
-          "text": "I see myself animating cartoons, drawing, or writing in the future. I want to learn figure drawing and animation.  I have always wanted to animate ever since I saw my first cartoon. I always felt it was meant for me and I believe I can make it. ",
+          "text": "I am currently 14, a 9th grader attending MAS Zelda Glazer 6-12 in Miami, FL. &nbsp;I love studying history and art. I plan to major in art and become an animator.&nbsp;I see myself animating cartoons, drawing, or writing in the future. I want to learn figure drawing and animation. Ever since I was a kid, I was watching cartoons or playing video games. I have always wanted to animate ever since I saw my first cartoon.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
