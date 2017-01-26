@@ -424,15 +424,15 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-2 .navbar-toggler {
-  color: #000000;
+  color: #393939;
 }
 #ext_menu-2 .close-icon::before,
 #ext_menu-2 .close-icon::after {
-  background-color: #000000;
+  background-color: #393939;
 }
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
-  color: #000000;
+  color: #393939;
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-2 .link {
@@ -465,7 +465,7 @@ h6,
   background: #d1bbae;
 }
 #ext_menu-2 .bg-color.transparent .link {
-  color: #000000;
+  color: #393939;
   transition: none;
 }
 #ext_menu-2 .bg-color.transparent.opened .link {
@@ -485,12 +485,16 @@ h6,
 #header1-7 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   font-size: 48px;
+  color: #383838;
 }
 #header1-7 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
+#header1-7 .mbr-section-lead B {
+  color: #303030;
+}
 #msg-box5-1n H3 {
-  color: #ffffff;
+  color: #383838;
 }
 #features7-o .card-subtitle {
   color: #bcbcbc;
