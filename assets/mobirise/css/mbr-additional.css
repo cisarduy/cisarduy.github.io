@@ -742,6 +742,7 @@ h6,
 
 
 
+
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -808,9 +809,13 @@ h6,
 #ext_menu-u .btn {
   font-family: 'Raleway', sans-serif;
 }
-#header3-2a .mbr-section-title,
-#header3-2a .mbr-section-subtitle {
+#header3-2p .mbr-section-title,
+#header3-2p .mbr-section-subtitle {
   text-align: center;
+}
+#header3-2p SMALL {
+  color: #2d2d2d;
+  font-family: 'Oswald', sans-serif;
 }
 
 
@@ -881,10 +886,6 @@ h6,
 #ext_menu-10 .btn {
   font-family: 'Raleway', sans-serif;
 }
-#slider2-14 .mbr-section-title,
-#slider2-14 .mbr-section-lead {
-  color: #fff;
-}
 
 
 
@@ -953,10 +954,6 @@ h6,
 }
 #ext_menu-12 .btn {
   font-family: 'Raleway', sans-serif;
-}
-#slider2-17 .mbr-section-title,
-#slider2-17 .mbr-section-lead {
-  color: #fff;
 }
 
 
@@ -1371,10 +1368,6 @@ h6,
 }
 #ext_menu-1o .btn {
   font-family: 'Raleway', sans-serif;
-}
-#slider2-1p .mbr-section-title,
-#slider2-1p .mbr-section-lead {
-  color: #fff;
 }
 
 
