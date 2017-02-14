@@ -243,7 +243,7 @@
           },
           "title": "BIOGRAPHY",
           "text": "I am currently 14, a 9th grader attending MAS Zelda Glazer 6-12 in Miami, FL. &nbsp;I love studying history and art. I plan to major in art and become an animator.&nbsp;I see myself animating cartoons, drawing, or writing in the future. I want to learn figure drawing and animation. Ever since I was a kid, I was watching cartoons or playing video games. I have always wanted to animate ever since I saw my first cartoon.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features4",
