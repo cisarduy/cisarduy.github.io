@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 109,
+    "uniqCompNum": 110,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0092254/Desktop",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-512x512-128x128.png",
@@ -125,7 +125,7 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-1-383x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "cisarduy.github.io/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -184,140 +184,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#c2aca0",
-              "border-color": "#c2aca0"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-o",
-          "_params": {
-            "iconsBgColor": "#c2aca0",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "desktop",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title1": "Animator",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Animation appeals to me the most because when I was little I loved cartoons. Cartoons brought me joy when I most needed it, and I want to share that emotion with others. By becoming an animator I can achieve my dreams of using my work to bring entertainment.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "pencil",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title2": "Storyboard Artist",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Secondary<b> </b>option, if being an animator doesn't cut out. Storyboard artists draw the panels for shows, I want to use my talent of drawing to create works to direct the show.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "heart",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title3": "Graphic Designer",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I want to study all types of art, so in the future I can keep my sense of art in my career. I see myself painting digitally and selling my art work.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title4": "Travel",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In the future I would like to travel the world and visit famous places. I am passionate about studying history and want to learn more by traveling. &nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -329,16 +195,16 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-p",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1472190649224-495422e1b602-2000x1332-12.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#af8f7f"
+            "overlayOpacity": "0.5",
+            "overlayColor": "#704c3a"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://catshiina.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
@@ -929,6 +795,110 @@
           },
           "title": "Photoshop CC",
           "meta": "Copyright Carolina Sarduy 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts3-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/umi-265x272.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(786)402-050",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "9050 SW 25 ST<br>Miami, FL 33165",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">c</a>isarduy@gmail.com",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9050 SW 25 ST<br>Miami, FL 33165",
+          "form": {
+            "title": "MESSAGE",
+            "action": "csarduy@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     },
@@ -1101,6 +1071,110 @@
           },
           "title": "Illustrator CC",
           "meta": "Copyright Carolina Sarduy 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts3-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/umi-265x272.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(786)402-050",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "9050 SW 25 ST<br>Miami, FL 33165",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">c</a>isarduy@gmail.com",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9050 SW 25 ST<br>Miami, FL 33165",
+          "form": {
+            "title": "MESSAGE",
+            "action": "csarduy@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     },
@@ -2332,12 +2406,15 @@
               "color": "#151515"
             },
             ".mbr-section-text": {
-              "color": "#080808"
+              "color": "#080808",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "19px"
             },
             ".mbr-section-text B": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "18px"
+              "font-size": "20px"
             }
           },
           "_anchor": "header2-30",
@@ -2386,6 +2463,140 @@
           "title": "BIOGRAPHY",
           "text": "<b>I am currently 14, a 9th grader attending MAS Zelda Glazer 6-12 in Miami, FL. I love studying history and art. I plan to major in art and become an animator. I see myself animating cartoons, drawing, or writing in the future. I want to learn figure drawing and animation. Ever since I was a kid, I was watching cartoons or playing video games. I have always wanted to animate ever since I saw my first cartoon. My love for technology began when I was a small child. I was 5 and my parents gave me my first computer. My mom and sister showed me how to use the computer; my sister also taught me how to play games on it. I was introduced by my older sister to video games, she used to play with me online and I really enjoyed going on. Every day I made the effort to play around on my computer. I learned many things and I liked doing what I did. My experiences led me to today, a student at MAS 6-12 and I am glad to be here.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#9a90a9",
+              "border-color": "#9a90a9"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-31",
+          "_params": {
+            "iconsBgColor": "#9a90a9",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#d4d6c5",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Animator",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Animation appeals to me the most because when I was little I loved cartoons. Cartoons brought me joy when I most needed it, and I want to share that emotion with others. By becoming an animator I can achieve my dreams of using my work to bring entertainment.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Storyboard Artist",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Secondary<b> </b>option, if being an animator doesn't cut out. Storyboard artists draw the panels for shows, I want to use my talent of drawing to create works to direct the show.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "heart",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Graphic Designer",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "I want to study all types of art, so in the future I can keep my sense of art in my career. I see myself painting digitally and selling my art work.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Travel",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "In the future I would like to travel the world and visit famous places. I am passionate about studying history and want to learn more by traveling. &nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },

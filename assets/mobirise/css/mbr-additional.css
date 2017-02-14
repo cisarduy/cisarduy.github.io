@@ -495,13 +495,6 @@ h6,
   color: #000000;
   font-size: 48px;
 }
-#features7-o .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-o .iconbox {
-  background-color: #c2aca0;
-  border-color: #c2aca0;
-}
 #social-buttons2-p .mbr-section-title,
 #social-buttons2-p .btn-social {
   color: #232323;
@@ -732,6 +725,9 @@ h6,
   color: #2d2d2d;
   font-family: 'Oswald', sans-serif;
 }
+#contacts3-1x STRONG {
+  color: #c0a375;
+}
 
 
 
@@ -809,6 +805,9 @@ h6,
 #header3-2p SMALL {
   color: #2d2d2d;
   font-family: 'Oswald', sans-serif;
+}
+#contacts3-1x STRONG {
+  color: #c0a375;
 }
 
 
@@ -1366,6 +1365,7 @@ h6,
 
 
 
+
 #ext_menu-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1437,10 +1437,19 @@ h6,
 }
 #header2-30 .mbr-section-text {
   color: #080808;
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
 }
 #header2-30 .mbr-section-text B {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
+}
+#features7-31 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-31 .iconbox {
+  background-color: #9a90a9;
+  border-color: #9a90a9;
 }
 
 
