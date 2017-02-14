@@ -149,10 +149,10 @@
               "color": "#9c9a9a"
             },
             ".mbr-section-lead B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "color": "#000000",
-              "font-size": "23px"
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -179,8 +179,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "CAROLINA SARDUY",
-          "text": "<font face=\"Roboto, sans-serif\"><b>Welcome to my website. You can find my works, my resume, and contact me.</b></font>",
+          "title": "CAROLINA SARDUY<br><br>",
+          "text": "<font face=\"Roboto, sans-serif\"><b>- WELCOME -</b></font>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -636,12 +636,12 @@
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#d1d1d1",
             "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#b29282",
             "showTitle": true,
             "showSubTitle": false
           },
