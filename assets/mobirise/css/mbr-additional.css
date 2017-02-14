@@ -495,13 +495,6 @@ h6,
   color: #000000;
   font-size: 48px;
 }
-#msg-box5-1n H3 {
-  color: #383838;
-  font-size: 46px;
-}
-#msg-box5-1n B {
-  color: #2e2e2e;
-}
 #features7-o .card-subtitle {
   color: #bcbcbc;
 }
@@ -1439,12 +1432,15 @@ h6,
 #ext_menu-1q .btn {
   font-family: 'Raleway', sans-serif;
 }
-#header5-1u .mbr-section-title {
-  color: #000;
+#header2-30 .mbr-section-title {
+  color: #151515;
 }
-#header5-1u .mbr-section-lead {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
+#header2-30 .mbr-section-text {
+  color: #080808;
+}
+#header2-30 .mbr-section-text B {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
 }
 
 
