@@ -199,7 +199,7 @@
           },
           "_anchor": "msg-box5-1n",
           "_params": {
-            "imageSize": "20",
+            "imageSize": "21",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -223,7 +223,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/snapchat-2-1400x2488.jpg",
+              "src": "@PROJECT_PATH@/assets/images/snapchat-1400x1979.jpg",
               "link": "",
               "alt": "",
               "title": "",
