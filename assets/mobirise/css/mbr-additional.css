@@ -651,6 +651,14 @@ h6,
 
 
 
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2b SMALL {
+  color: #2d2d2d;
+  font-family: 'Oswald', sans-serif;
+}
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -716,14 +724,6 @@ h6,
 }
 #ext_menu-s .btn {
   font-family: 'Raleway', sans-serif;
-}
-#header3-2b .mbr-section-title,
-#header3-2b .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2b SMALL {
-  color: #2d2d2d;
-  font-family: 'Oswald', sans-serif;
 }
 #contacts3-1x STRONG {
   color: #c0a375;
