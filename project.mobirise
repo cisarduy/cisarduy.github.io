@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_0702",
-    "currentPage": "biography.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -125,7 +125,7 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-1-383x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "cisarduy.github.io",
               "title": "",
               "linkInNewWindow": false
             },
@@ -221,8 +221,8 @@
           },
           "_anchor": "contacts3-1x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -259,7 +259,7 @@
               "family": "et-line"
             }
           },
-          "text2": "(786)402-050",
+          "text2": "(786)402-0560",
           "media2": {
             "iconFont": {
               "active": true,
@@ -269,7 +269,7 @@
               "family": "et-line"
             }
           },
-          "text3": "9050 SW 25 ST<br>Miami, FL 33165",
+          "text3": "9010 SW 25 ST<br>Miami, FL 33165",
           "media3": {
             "iconFont": {
               "active": true,
@@ -282,7 +282,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">c</a>isarduy@gmail.com",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9050 SW 25 ST<br>Miami, FL 33165",
+          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9010 SW 25 ST<br>Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
             "action": "csarduy@miamiartsstudio.com",
@@ -654,9 +654,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/face-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/face-2000x2000.jpg",
-                "caption": "Face Build",
+                "thumb": "@PROJECT_PATH@/assets/images/insert-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/insert-2000x2000.png",
+                "caption": "Billboard Poster",
                 "active": true
               }
             ],
@@ -808,8 +808,8 @@
           },
           "_anchor": "contacts3-1x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -846,7 +846,7 @@
               "family": "et-line"
             }
           },
-          "text2": "(786)402-050",
+          "text2": "(786)402-0560",
           "media2": {
             "iconFont": {
               "active": true,
@@ -856,7 +856,7 @@
               "family": "et-line"
             }
           },
-          "text3": "9050 SW 25 ST<br>Miami, FL 33165",
+          "text3": "9010 SW 25 ST<br>Miami, FL 33165",
           "media3": {
             "iconFont": {
               "active": true,
@@ -869,7 +869,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">c</a>isarduy@gmail.com",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9050 SW 25 ST<br>Miami, FL 33165",
+          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9010 SW 25 ST<br>Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
             "action": "csarduy@miamiartsstudio.com",
@@ -1032,6 +1032,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.png",
                 "caption": "MDCPS Logo Entry",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/face-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/face-2000x2000.jpg",
+                "caption": "MDCPS Logo Entry",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blueprints-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/blueprints-2000x2000.png",
+                "caption": "MDCPS Logo Entry",
                 "active": true
               }
             ],
@@ -1084,8 +1104,8 @@
           },
           "_anchor": "contacts3-1x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1122,7 +1142,7 @@
               "family": "et-line"
             }
           },
-          "text2": "(786)402-050",
+          "text2": "(786)402-0560",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1132,7 +1152,7 @@
               "family": "et-line"
             }
           },
-          "text3": "9050 SW 25 ST<br>Miami, FL 33165",
+          "text3": "9010 SW 25 ST<br>Miami, FL 33165",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1145,7 +1165,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">c</a>isarduy@gmail.com",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9050 SW 25 ST<br>Miami, FL 33165",
+          "text6": "<strong>Contacts</strong><br>Email: cisarduy@gmail.com<br>Phone: (786)402-0560<br><br><br><strong>Address</strong><br>9010 SW 25 ST<br>Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
             "action": "csarduy@miamiartsstudio.com",
