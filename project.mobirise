@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_0702",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -701,7 +701,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#6b6b6b",
+            "bgColor": "#66595c",
             "showMeta": true
           },
           "title": "Photoshop CC",
@@ -1096,7 +1096,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#6b6b6b",
+            "bgColor": "#66595c",
             "showMeta": true
           },
           "title": "Illustrator CC",
