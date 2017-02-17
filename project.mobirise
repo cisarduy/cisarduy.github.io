@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 110,
+    "uniqCompNum": 114,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0092254/Desktop",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-512x512-128x128.png",
@@ -182,6 +182,43 @@
           "title": "CAROLINA SARDUY<br><br>",
           "text": "<font face=\"Roboto, sans-serif\"><b>- WELCOME -</b></font>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-35",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#704c3a",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "video",
+          "caption": "<p>.</p>"
         },
         {
           "_styles": {
