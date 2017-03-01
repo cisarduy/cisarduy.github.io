@@ -784,7 +784,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/doodle-4-google-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/doodle-4-google-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "Google 4 Doodle 2016",
                 "active": false
               },
               {
@@ -794,7 +794,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/postcard-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "Hawaii Postcard",
                 "active": false
               },
               {
@@ -804,7 +804,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cd-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/cd-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "Miami-Dade Fair CD Entry",
                 "active": false
               },
               {
@@ -814,7 +814,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/billboard-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/billboard-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "Billboard Poster",
                 "active": false
               },
               {
@@ -824,7 +824,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/wynwood-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/wynwood-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "If Walls Could Talk Poster",
                 "active": false
               },
               {
@@ -834,7 +834,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/insert-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/insert-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "MAS Insert Poster",
                 "active": false
               },
               {
@@ -844,7 +844,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/carolina-sarduy-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/carolina-sarduy-1-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Painting 1",
                 "active": false
               },
               {
@@ -854,12 +854,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/carolina-sarduy-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/carolina-sarduy-2-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Painting 2",
                 "active": true
               }
             ],
             "spacing": "4",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#f1ecd7",
             "filterBgColor": true,
@@ -1011,7 +1011,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo Entry",
                 "active": false
               },
               {
@@ -1021,7 +1021,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tv-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "TV",
                 "active": false
               },
               {
@@ -1031,7 +1031,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blueprints-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/blueprints-2000x2000.png",
-                "caption": "Type caption here",
+                "caption": "Blueprints",
                 "active": false
               },
               {
@@ -1041,12 +1041,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/face-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/face-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Face Redraw",
                 "active": true
               }
             ],
             "spacing": "4",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#f1ecd7",
             "filterBgColor": true,
@@ -1825,11 +1825,11 @@
                 "overlayOpacity": "0",
                 "overlayColor": "#d1d1d1",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
@@ -1839,6 +1839,26 @@
           },
           "_anchor": "slider3-2f",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Carolina Sarduy."
         }
       ]
     },
