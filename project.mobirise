@@ -229,7 +229,7 @@
           "_name": "content8",
           "_anchor": "content8-2c",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -239,7 +239,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/-FwgC4zfRW4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/xSWtM01eeds?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
