@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 94,
+    "uniqCompNum": 96,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.png",
@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Carolina Sarduy",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -74,13 +74,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -103,7 +103,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -113,7 +113,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -122,7 +122,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -136,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CAROLINA SARDUY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Photoshop\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>APPLICATIONS</p></a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lightroom</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DiscussIT 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ps certification.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sat certification.html\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap certification.html\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>REFERENCE</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sandra Iglesia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Lombana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"submit.html\" aria-expanded=\"false\"><p>CONTACT</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Photoshop\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>APPLICATIONS</p></a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lightroom</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DiscussIT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ps certification.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sat certification.html\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap certification.html\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>REFERENCE</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sandra Iglesia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Lombana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"submit.html\" aria-expanded=\"false\"><p>CONTACT</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"resume.html\">RESUME</a></li>"
         },
         {
           "_inherit": "header1",
@@ -146,13 +146,16 @@
               "font-size": "60px"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#ffffff"
             },
             ".mbr-section-lead B": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#ffffff",
               "font-size": "23px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -164,7 +167,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/banner1-2000x1125.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,15 +175,15 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#b78e77",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#fbe0ff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "CAROLINA SARDUY",
-          "text": "<font face=\"Roboto, sans-serif\"><b>- WELCOME -</b></font>",
+          "title": "WELCOME",
+          "text": "<span style=\"font-style: normal;\">- ⋆ -</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -200,14 +203,14 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
+            "bgColor": "#c6dbff",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#de9770"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#c1c1c1"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCz1rwnjhjPvQapqa_-HMtTA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
@@ -220,7 +223,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "19px"
             }
           },
           "_tags": [
@@ -230,7 +234,7 @@
           "_anchor": "content8-2c",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -244,11 +248,11 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#97857d",
+            "overlayColor": "#fef6ff",
             "showTitle": true,
-            "showCaption": true
+            "showCaption": false
           },
-          "title": "video",
+          "title": "playing piano ♥",
           "caption": "<p>....</p>"
         },
         {
@@ -276,7 +280,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/umi-265x272.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-265x88.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -417,13 +421,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -446,7 +450,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1c",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -456,7 +460,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -465,7 +469,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -499,11 +503,11 @@
             "labelsColor": "#232323",
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
-            "bgColor": "#d1d1d1",
-            "bgColorRadio": false,
+            "bgColor": "#ffefc6",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#76655c",
@@ -601,13 +605,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -630,7 +634,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-q",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -640,7 +644,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -649,10 +653,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -703,13 +709,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -732,7 +738,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-s",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -742,7 +748,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -751,7 +757,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -861,7 +867,7 @@
             "spacing": "4",
             "showText": true,
             "filter": false,
-            "bgColor": "#f1ecd7",
+            "bgColor": "#ffefc6",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -930,13 +936,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -959,7 +965,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -969,7 +975,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -978,7 +984,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1048,7 +1054,7 @@
             "spacing": "4",
             "showText": true,
             "filter": false,
-            "bgColor": "#f1ecd7",
+            "bgColor": "#ffefc6",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1117,13 +1123,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1146,7 +1152,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1156,7 +1162,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1221,13 +1227,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1250,7 +1256,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-12",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1260,7 +1266,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1354,7 +1360,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1364,7 +1370,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1458,7 +1464,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1a",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1468,7 +1474,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1562,7 +1568,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1b",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1572,7 +1578,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1666,7 +1672,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1c",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1676,7 +1682,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1741,13 +1747,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1770,7 +1776,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1h",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1780,7 +1786,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -1789,7 +1795,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1903,13 +1909,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1932,7 +1938,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1o",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -1942,7 +1948,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -2010,13 +2016,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#29201b"
+              "background": "#a9b9e5"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3f3129!important"
+              "background": "#c4cfed!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#48382f"
+              "background": "#d0d9f1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2039,7 +2045,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1q",
           "_params": {
-            "bgColor": "#48382f",
+            "bgColor": "#d0d9f1",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -2049,7 +2055,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -2058,7 +2064,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-383x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo-3-383x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2086,17 +2092,21 @@
             },
             ".mbr-section-text B": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-2g",
           "_params": {
             "imageSize": "30",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#c6d6ff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2114,7 +2124,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/snapchat-1400x1435.png",
+              "src": "@PROJECT_PATH@/assets/images/favicon-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2146,8 +2156,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#d4d4d4",
-              "border-color": "#d4d4d4"
+              "background-color": "#c6d6ff",
+              "border-color": "#c6d6ff"
             },
             "H4": {
               "color": "#ffffff"
@@ -2159,13 +2169,13 @@
           "_name": "features7",
           "_anchor": "features7-2h",
           "_params": {
-            "iconsBgColor": "#d4d4d4",
+            "iconsBgColor": "#c6d6ff",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#5a5353",
+            "bgColor": "#b29d67",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2190,7 +2200,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title1": "Animator",
@@ -2206,7 +2216,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title2": "Storyboard Artist",
@@ -2222,7 +2232,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title3": "Graphic Designer",
@@ -2238,7 +2248,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title4": "Travel",
