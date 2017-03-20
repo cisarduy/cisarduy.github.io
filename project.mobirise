@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carolina Sarduy",
-    "currentPage": "Painting Reproduction.html",
+    "currentPage": "biography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1394,7 +1394,7 @@
     "biography.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": ""
       },
       "components": [
         {
