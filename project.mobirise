@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carolina Sarduy",
-    "currentPage": "certifications.html",
+    "currentPage": "Painting Reproduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -384,7 +384,7 @@
     },
     "submit.html": {
       "settings": {
-        "title": ""
+        "title": "Contact"
       },
       "components": [
         {
@@ -569,7 +569,9 @@
       ]
     },
     "resume.html": {
-      "settings": {},
+      "settings": {
+        "title": "Resume"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -673,7 +675,9 @@
       ]
     },
     "photoshop.html": {
-      "settings": {},
+      "settings": {
+        "title": "Photoshop"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -880,7 +884,9 @@
       ]
     },
     "illustrator.html": {
-      "settings": {},
+      "settings": {
+        "title": "Illustrator"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1067,7 +1073,9 @@
       ]
     },
     "animate.html": {
-      "settings": {},
+      "settings": {
+        "title": "Animate"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1171,7 +1179,9 @@
       ]
     },
     "lightroom.html": {
-      "settings": {},
+      "settings": {
+        "title": "Lightroom"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1276,7 +1286,7 @@
     },
     "123D.html": {
       "settings": {
-        "title": "Web Site Builder Title",
+        "title": "123D",
         "meta_descr": "Web Site Builder Description"
       },
       "components": [
@@ -1383,7 +1393,7 @@
     },
     "biography.html": {
       "settings": {
-        "title": "Web Site Maker Title",
+        "title": "About",
         "meta_descr": "Web Site Maker Description"
       },
       "components": [
@@ -1718,7 +1728,7 @@
     },
     "Personal Art.html": {
       "settings": {
-        "title": "Site Builder Title",
+        "title": "Personal Art",
         "meta_descr": "Site Builder Description"
       },
       "components": [
@@ -1824,7 +1834,9 @@
       ]
     },
     "certifications.html": {
-      "settings": {},
+      "settings": {
+        "title": "Certifications"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2162,7 +2174,7 @@
     },
     "premeire.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Premeire",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -2269,7 +2281,7 @@
     },
     "Painting Reproduction.html": {
       "settings": {
-        "title": "Site Generator Title",
+        "title": "Painting Reproduction",
         "meta_descr": "Site Generator Description"
       },
       "components": [
