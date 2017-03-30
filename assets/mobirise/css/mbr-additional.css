@@ -499,14 +499,15 @@ h6,
   font-size: 25px;
   color: #ffffff;
 }
+#msg-box3-37 .mbr-section-title,
+#msg-box3-37 p {
+  color: #000;
+}
 #social-buttons2-2i .mbr-section-title,
 #social-buttons2-2i .btn-social {
   color: #232323;
 }
 #social-buttons2-2i .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box4-35 H3 {
   color: #ffffff;
 }
 #contacts3-1x STRONG {
