@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carolina Sarduy",
-    "currentPage": "Painting Reproduction.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1030,6 +1030,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/face-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/face-2000x2000.jpg",
                 "caption": "Face Redraw",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/creme-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/creme-2000x2000.jpg",
+                "caption": "2D Design",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zeth-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/zeth-2000x2000.png",
+                "caption": "OC Zeth",
                 "active": true
               }
             ],
@@ -1261,7 +1281,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1368,7 +1388,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1810,7 +1830,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
