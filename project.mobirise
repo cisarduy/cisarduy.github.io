@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carolina Sarduy",
-    "currentPage": "illustrator.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-2-128x131.png",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
@@ -1281,7 +1281,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1388,7 +1388,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1830,7 +1830,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-499x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
