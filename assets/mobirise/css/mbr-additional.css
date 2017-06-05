@@ -689,6 +689,7 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -749,6 +750,16 @@ h6,
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#msg-box4-z H3 {
+  font-size: 30px;
+}
+#contacts3-7 STRONG {
+  color: #ffffff;
+}
+#contacts3-7 .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
 
 #ext_menu-1 .hide-buttons .nav-btn {
@@ -813,9 +824,6 @@ h6,
   color: #ffffff!important;
 }
 #msg-box4-v H3 {
-  font-size: 30px;
-}
-#msg-box4-y H3 {
   font-size: 30px;
 }
 #contacts3-7 STRONG {
