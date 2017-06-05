@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carolina Sarduy x",
-    "currentPage": "index.html",
+    "currentPage": "premeire.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1408,7 +1408,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/tXAayzR3Da0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
